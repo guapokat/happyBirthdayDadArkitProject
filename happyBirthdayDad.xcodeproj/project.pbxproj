@@ -13,6 +13,7 @@
 		4DE1B1692052F0140045A933 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4DE1B1672052F0140045A933 /* Main.storyboard */; };
 		4DE1B16B2052F0140045A933 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4DE1B16A2052F0140045A933 /* Assets.xcassets */; };
 		4DE1B16E2052F0140045A933 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4DE1B16C2052F0140045A933 /* LaunchScreen.storyboard */; };
+		4DE1B176205333D30045A933 /* heavymetal.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4DE1B175205333D30045A933 /* heavymetal.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		4DE1B16A2052F0140045A933 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4DE1B16D2052F0140045A933 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4DE1B16F2052F0140045A933 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4DE1B175205333D30045A933 /* heavymetal.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = heavymetal.mp3; path = Assets.xcassets/heavymetal.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				4DE1B1672052F0140045A933 /* Main.storyboard */,
 				4DE1B1632052F0140045A933 /* art.scnassets */,
 				4DE1B16A2052F0140045A933 /* Assets.xcassets */,
+				4DE1B175205333D30045A933 /* heavymetal.mp3 */,
 				4DE1B16C2052F0140045A933 /* LaunchScreen.storyboard */,
 				4DE1B16F2052F0140045A933 /* Info.plist */,
 			);
@@ -130,6 +133,7 @@
 				4DE1B16E2052F0140045A933 /* LaunchScreen.storyboard in Resources */,
 				4DE1B16B2052F0140045A933 /* Assets.xcassets in Resources */,
 				4DE1B1692052F0140045A933 /* Main.storyboard in Resources */,
+				4DE1B176205333D30045A933 /* heavymetal.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
